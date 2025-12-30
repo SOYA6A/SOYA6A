@@ -7,9 +7,9 @@ Diplômée d'une formation Graduate Développeur chez Studi, je me spécialise d
 
 Cybersécurité
 
-🔐 Analyse de vulnérabilités web
-🛡️ Security Headers & HTTPS
-🔍 Reconnaissance et OSINT
-📊 Analyse de logs
-🔒 Gestion des mots de passe sécurisés
+- 🔐 Analyse de vulnérabilités web
+- 🛡️ Security Headers & HTTPS
+- 🔍 Reconnaissance et OSINT
+- 📊 Analyse de logs
+- 🔒 Gestion des mots de passe sécurisés
 
