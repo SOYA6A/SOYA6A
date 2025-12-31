@@ -13,3 +13,4 @@ Diplômée d'une formation Graduate Développeur chez Studi, je me spécialise d
 - 📊 Analyse de logs
 - 🔒 Gestion des mots de passe sécurisés
 
+## 🚀 Projets Cybersécurité
