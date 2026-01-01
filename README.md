@@ -13,7 +13,7 @@ Diplômée d'une formation Graduate Développeur chez Studi, je me spécialise d
 - 📊 Analyse de logs
 - 🔒 Gestion des mots de passe sécurisés
 
-### 🚀 Projets Cybersécurité
+## 🚀 Projets Cybersécurité
 
 🔒 Security Headers Scanner
 Outil Python qui analyse les headers de sécurité HTTP d'un site web et identifie les vulnérabilités potentielles.
@@ -21,3 +21,8 @@ Outil Python qui analyse les headers de sécurité HTTP d'un site web et identif
 - ✅ Détection HSTS, CSP, X-Frame-Options
 - ✅ Rapport de sécurité détaillé
 - 🛠️ Stack : Python, Requests
+
+## 🔍 Port Scanner
+Scanner de ports pour identifier les services actifs sur un réseau.
+
+- 🛠️ Stack : Python
