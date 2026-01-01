@@ -26,3 +26,9 @@ Outil Python qui analyse les headers de sécurité HTTP d'un site web et identif
 Scanner de ports pour identifier les services actifs sur un réseau.
 
 - 🛠️ Stack : Python
+
+  
+  📊 Log Analyzer
+Analyseur de logs système pour détecter des activités suspectes.
+
+🛠️ Stack : Python
