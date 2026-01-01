@@ -28,7 +28,7 @@ Scanner de ports pour identifier les services actifs sur un réseau.
 - 🛠️ Stack : Python
 
   
-  📊 Log Analyzer
+ ## 📊 Log Analyzer
 Analyseur de logs système pour détecter des activités suspectes.
 
-🛠️ Stack : Python
+- 🛠️ Stack : Python
