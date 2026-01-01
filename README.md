@@ -32,3 +32,8 @@ Scanner de ports pour identifier les services actifs sur un réseau.
 Analyseur de logs système pour détecter des activités suspectes.
 
 - 🛠️ Stack : Python
+
+ ## 🔐 Password Breach Checker
+Vérifie si un mot de passe a été compromis dans des fuites de données.
+
+- 🛠️ Stack : Python
