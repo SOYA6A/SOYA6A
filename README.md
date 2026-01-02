@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 ## 🎯 À propos de moi
 Développeuse vivement intérésée par la cybersécurité, je suis actuellement en recherche active d'une alternance en cybersécurité pour intégrer le cursus Ironhack.
