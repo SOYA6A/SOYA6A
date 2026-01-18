@@ -1,9 +1,5 @@
 ## Hi there 
 
-## 🎯 À propos de moi
-
-
-
 ## Cybersécurité
 
 - 🔐 Analyse de vulnérabilités web
