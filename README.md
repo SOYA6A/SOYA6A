@@ -1,8 +1,5 @@
 # 👋 Salut, moi c'est SOYA !
 
-![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-In%20Training-red?style=for-the-badge&logo=tryhackme)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-blueviolet?style=for-the-badge)
 
 ## Cybersécurité
 
@@ -11,6 +8,21 @@
 - 🔍 Reconnaissance et OSINT
 - 📊 Analyse de logs
 - 🔒 Gestion des mots de passe sécurisés
+
+## 🛡️ Compétences en Cybersécurité
+
+**En cours d'apprentissage via TryHackMe :**
+- 🔍 Reconnaissance & OSINT
+- 🐛 Analyse de vulnérabilités web (XSS, SQL Injection, CSRF)
+- 🔐 Headers de sécurité & HTTPS
+- 🌐 Scanning de ports & services
+- 📊 Analyse de logs
+
+**Outils maîtrisés :**
+- Python (développement d'outils de sécurité)
+- Nmap, Wireshark (bases)
+- Git & GitHub
+
 
 ## 🚀 Projets Cybersécurité
 
