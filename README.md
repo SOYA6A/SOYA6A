@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est SOYA !
+# 👋 Salut
 
 
 ## Cybersécurité
