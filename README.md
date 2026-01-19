@@ -1,6 +1,4 @@
 
-
-
 ## Cybersécurité
 
 - 🔐 Analyse de vulnérabilités web
