@@ -44,10 +44,10 @@ Scanner de vulnérabilités web avec interface web et base de données.
 Scanner de ports pour identifier les services actifs sur un réseau.
 - 🛠️ **Stack :** Python
 
-### 📊 Log Analyzer
+### 📊 [Log Analyzer](https://github.com/SOYA6A/log-analyzer)
 Analyseur de logs système pour détecter des activités suspectes.
 - 🛠️ **Stack :** Python
 
-### 🔐 Password Breach Checker
+### 🔐 [Password Breach Checker](https://github.com/SOYA6A/password-breach-checker)
 Vérifie si un mot de passe a été compromis dans des fuites de données.
 - 🛠️ **Stack :** Python
