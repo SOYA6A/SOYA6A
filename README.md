@@ -40,7 +40,7 @@ Scanner de vulnérabilités web avec interface web et base de données.
 - ✅ Historique des scans (SQLite)
 - 🛠️ **Stack :** Python, Flask, SQLite, HTML/CSS/JS
 
-### 🔍 Port Scanner
+### 🔍 Port Scanner [Port Scanner](https://github.com/SOYA6A/port-scanner)
 Scanner de ports pour identifier les services actifs sur un réseau.
 - 🛠️ **Stack :** Python
 
