@@ -1,48 +1,53 @@
+## 🛡️ Compétences en Cybersécurité
 
-## Cybersécurité
-
-- 🔐 Analyse de vulnérabilités web
-- 🛡️ Security Headers & HTTPS
-- 🔍 Reconnaissance et OSINT
+**Formation active via TryHackMe :**
+- 🔍 Reconnaissance & OSINT
+- 🐛 Analyse de vulnérabilités web (XSS, SQL Injection, CSRF)
+- 🔐 Security Headers & HTTPS
+- 🌐 Scanning de ports & services
 - 📊 Analyse de logs
 - 🔒 Gestion des mots de passe sécurisés
 
-## 🛡️ Compétences en Cybersécurité
-
-**En cours d'apprentissage via TryHackMe :**
-- 🔍 Reconnaissance & OSINT
-- 🐛 Analyse de vulnérabilités web (XSS, SQL Injection, CSRF)
-- 🔐 Headers de sécurité & HTTPS
-- 🌐 Scanning de ports & services
-- 📊 Analyse de logs
-
-**Outils maîtrisés :**
+**Outils & Technologies :**
 - Python (développement d'outils de sécurité)
 - Nmap, Wireshark (bases)
 - Git & GitHub
+- Linux
 
+---
 
 ## 🚀 Projets Cybersécurité
 
-## 🔒 Security Headers Scanner
+### 🔒 [Security Headers Scanner](https://github.com/SOYA6A/security-headers-scanner)
 Outil Python qui analyse les headers de sécurité HTTP d'un site web et identifie les vulnérabilités potentielles.
-
 - ✅ Détection HSTS, CSP, X-Frame-Options
-- ✅ Rapport de sécurité détaillé
-- 🛠️ Stack : Python, Requests
+- ✅ Score de sécurité sur 100
+- ✅ Rapport détaillé avec recommandations
+- 🛠️ **Stack :** Python, Requests
 
-## 🔍 Port Scanner
+### 🔐 [Password Strength Analyzer](https://github.com/SOYA6A/password-strength-analyzer)
+Analyseur de force de mots de passe avec recommandations personnalisées.
+- ✅ Score sur 100 points
+- ✅ Détection des mots de passe courants
+- ✅ Conseils de sécurité personnalisés
+- 🛠️ **Stack :** Python
+
+### 🛡️ [Vulnerability Scanner](https://github.com/SOYA6A/vulnerability-scanner)
+Scanner de vulnérabilités web avec interface web et base de données.
+- ✅ Analyse HTTPS, SSL, headers de sécurité
+- ✅ Scan de ports
+- ✅ Interface web avec Flask
+- ✅ Historique des scans (SQLite)
+- 🛠️ **Stack :** Python, Flask, SQLite, HTML/CSS/JS
+
+### 🔍 Port Scanner
 Scanner de ports pour identifier les services actifs sur un réseau.
+- 🛠️ **Stack :** Python
 
-- 🛠️ Stack : Python
-
-  
- ## 📊 Log Analyzer
+### 📊 Log Analyzer
 Analyseur de logs système pour détecter des activités suspectes.
+- 🛠️ **Stack :** Python
 
-- 🛠️ Stack : Python
-
- ## 🔐 Password Breach Checker
+### 🔐 Password Breach Checker
 Vérifie si un mot de passe a été compromis dans des fuites de données.
-
-- 🛠️ Stack : Python
+- 🛠️ **Stack :** Python
