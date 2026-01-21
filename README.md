@@ -36,9 +36,6 @@ Analyseur de force de mots de passe avec recommandations personnalisées.
 Scanner de vulnérabilités web avec interface web et base de données.
 - ✅ Analyse HTTPS, SSL, headers de sécurité
 - ✅ Scan de ports
-- ✅ Interface web avec Flask
-- ✅ Historique des scans (SQLite)
-- 🛠️ **Stack :** Python, Flask, SQLite, HTML/CSS/JS
 
 ### 🔍[Port Scanner](https://github.com/SOYA6A/port-scanner)
 Scanner de ports pour identifier les services actifs sur un réseau.
