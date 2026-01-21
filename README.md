@@ -32,10 +32,7 @@ Analyseur de force de mots de passe avec recommandations personnalisées.
 - ✅ Conseils de sécurité personnalisés
 - 🛠️ **Stack :** Python
 
-### 🛡️ [Vulnerability Scanner](https://github.com/SOYA6A/vulnerability-scanner)
-Scanner de vulnérabilités web avec interface web et base de données.
-- ✅ Analyse HTTPS, SSL, headers de sécurité
-- ✅ Scan de ports
+
 
 ### 🔍[Port Scanner](https://github.com/SOYA6A/port-scanner)
 Scanner de ports pour identifier les services actifs sur un réseau.
