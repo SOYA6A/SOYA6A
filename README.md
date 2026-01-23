@@ -1,3 +1,11 @@
+
+## compétences SQL
+**Formation active sur 
+
+
+
+
+
 ## 🛡️ Compétences en Cybersécurité
 
 **Formation active via TryHackMe :**
