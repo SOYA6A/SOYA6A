@@ -1,6 +1,6 @@
 
 ## compétences SQL
-**Formation active sur 
+**Formation active sur sqlzoo.net**
 
 
 
