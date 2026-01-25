@@ -6,6 +6,7 @@ L'objectif est de maîtriser la manipulation de données, des requêtes de base 
 
 ## 🛡️ Compétences en Cybersécurité
 🚀 État d'avancement
+J'organise mon apprentissage par modules. Voici où j'en suis :
 
 | Module | Sujet de l'exercice | Statut |
 | :--- | :--- | :---: |
