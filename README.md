@@ -5,6 +5,12 @@ L'objectif est de maîtriser la manipulation de données, des requêtes de base 
 ## 🚀 État d'avancement
 
 ## 🛡️ Compétences en Cybersécurité
+🚀 État d'avancement
+J'organise mon apprentissage par modules. Voici où j'en suis :
+
+Section	Sujet	Statut
+0	SELECT basics	✅ Terminé
+
 
 **Formation active via TryHackMe :**
 - 🔍 Reconnaissance & OSINT
