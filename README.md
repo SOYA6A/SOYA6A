@@ -1,4 +1,4 @@
-
+hey Im A6A
 ## compétences SQL
 **Formation active sur sqlzoo.net** : 
 L'objectif est de maîtriser la manipulation de données, des requêtes de base aux jointures complexes.
