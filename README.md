@@ -4,7 +4,7 @@
 L'objectif est de maîtriser la manipulation de données, des requêtes de base aux jointures complexes.
 ## 🚀 État d'avancement
 
-## 🛡️ Compétences en Cybersécurité
+
 🚀 État d'avancement
 J'organise mon apprentissage par modules. Voici où j'en suis :
 
@@ -17,6 +17,7 @@ J'organise mon apprentissage par modules. Voici où j'en suis :
 | 4 | SUM and COUNT | 📅 À venir |
 | 5 | JOIN (Jointures) | 📅 À venir |
 
+## 🛡️ Compétences en Cybersécurité
 
 **Formation active via TryHackMe :**
 - 🔍 Reconnaissance & OSINT
