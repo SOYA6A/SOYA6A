@@ -9,12 +9,12 @@ J'organise mon apprentissage par modules. Voici où j'en suis :
 
 | Module | Sujet de l'exercice | Statut |
 | :--- | :--- | :---: |
-| 0 | SELECT basics | ✅ Done  |
-| 1 | SELECT from WORLD |⏳ En cours |
-| 2 | SELECT from Nobel | ⏳ En cours |
-| 3 | SELECT in SELECT | 📅 À venir |
-| 4 | SUM and COUNT | 📅 À venir |
-| 5 | JOIN (Jointures) | 📅 À venir |
+|  | SELECT basics | ✅ Done  |
+|  | SELECT from WORLD |⏳ En cours |
+|  | SELECT from Nobel | ⏳ En cours |
+|  | SELECT in SELECT | 📅 À venir |
+|  | SUM and COUNT | 📅 À venir |
+|  | JOIN (Jointures) | 📅 À venir |
 
 ## 🛡️ Compétences en Cybersécurité
 
