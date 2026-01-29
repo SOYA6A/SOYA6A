@@ -9,7 +9,7 @@ J'organise mon apprentissage par modules. Voici où j'en suis :
 
 | Module | Sujet de l'exercice | Statut |
 | :--- | :--- | :---: |
-| 0 | SELECT basics | ✅ Terminé |
+| 0 | SELECT basics | ✅ En cours  |
 | 1 | SELECT from WORLD |⏳ En cours |
 | 2 | SELECT from Nobel | ⏳ En cours |
 | 3 | SELECT in SELECT | 📅 À venir |
