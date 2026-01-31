@@ -11,7 +11,7 @@ J'organise mon apprentissage par modules. Voici où j'en suis :
 | :--- | :--- | :---: |
 |  | SELECT basics | ✅ Done  |
 |  | SELECT from WORLD|✅Done |
-|  | SELECT from Nobel | ⏳ En cours |
+|  | SELECT from Nobel | ⏳  |
 |  | SELECT in SELECT | 📅 À venir |
 |  | SUM and COUNT | 📅 À venir |
 |  | JOIN (Jointures) | 📅 À venir |
