@@ -11,8 +11,8 @@ J'organise mon apprentissage par modules. Voici où j'en suis :
 |  2| SELECT from WORLD|✅Done |
 |  3| SELECT from Nobel | ✅Done  |
 |  4| SELECT in SELECT |✅Done|
-|  5| SUM and COUNT | 📅 À venir |
-|  6| JOIN (Jointures) | 📅 À venir |
+|  5| SUM and COUNT | ✅Done |
+|  6| JOIN (Jointures) | ✅Done |
 
 ## 🛡️ Compétences en Cybersécurité
 
