@@ -14,6 +14,7 @@ J'organise mon apprentissage par modules. Voici où j'en suis :
 |  5| SUM and COUNT | ✅Done |
 |  6| JOIN (Jointures) | ✅Done |
 |. |.                   |. |
+|. |.                    |. |
 
 ## 🛡️ Compétences en Cybersécurité
 
