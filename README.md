@@ -6,9 +6,9 @@
 
 | Module | Sujet de l'exercice | Statut |
 | :--- | :--- | :---: |
-| 1 | SELECT basics | ✅ Done  |
-|  2| SELECT from WORLD|✅Done |
-|  3| SELECT from Nobel | ✅Done  |
+| 1 | SELECT basics | ✅ Done|
+|  2| SELECT from WORLD|✅Done|
+|  3| SELECT from Nobel | ✅Done |
 |  4| SELECT in SELECT |✅Done|
 |  5| SUM and COUNT   | ✅Done |
 |  6| JOIN (Jointures) |✅Done |
