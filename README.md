@@ -1,5 +1,5 @@
 ## My profil
-## 📊 Compétences en  SQL repo en cours 
+## 📊 Compétences en  SQL 
 **Formation active sur sqlzoo.net** : 
 - L'objectif est de maîtriser la manipulation de données, des requêtes de base aux jointures complexes.
 ## 🚀 État d'avancement
@@ -12,7 +12,7 @@
 |  4| SELECT in SELECT |✅Done|
 |  5| SUM and COUNT   | ✅Done |
 |  6| JOIN (Jointures) |✅Done |
-
+repo en cours 
 ## 🛡️ Compétences en Cybersécurité
 
 **Formation active via TryHackMe :**
