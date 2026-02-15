@@ -97,10 +97,6 @@ Vérifie si un mot de passe a été compromis dans des fuites de données.
 Générateur de mots de passe sécurisés.
 - 🛠️ **Stack :** JavaScript
 
----
-
-
----
 
 ## 📫 Me Contacter
 
