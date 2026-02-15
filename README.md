@@ -9,7 +9,7 @@ Diplômée d'une formation **Graduate Développeur** chez Studi, je me spéciali
 - L'analyse de vulnérabilités web
 - La pratique sur **TryHackMe** et **SQLZoo** pour renforcer mes compétences
 
-📍 **Localisation :** Bourgogne-Franche-Comté, France  
+
 🔍 **Recherche :** Alternance en Cybersécurité (2025)  
 💼 **Formation visée :** Ironhack - Cybersecurity Bootcamp  
 🎯 **Entraînement :** TryHackMe + SQLZoo (pratique quotidienne)
