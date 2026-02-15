@@ -99,9 +99,6 @@ Générateur de mots de passe sécurisés.
 
 ---
 
-## 📈 GitHub Stats
-
-![SOYA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOYA6A&show_icons=true&theme=radical)
 
 ---
 
