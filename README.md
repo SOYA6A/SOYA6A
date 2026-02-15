@@ -10,7 +10,7 @@ Diplômée d'une formation **Graduate Développeur** chez Studi, je me spéciali
 - La pratique sur **TryHackMe** et **SQLZoo** pour renforcer mes compétences
 
 
-🔍 **Recherche :** Alternance en Cybersécurité (2025)  
+🔍 **Recherche :** Alternance en Cybersécurité (2026)  
 💼 **Formation visée :** Ironhack - Cybersecurity Bootcamp  
 🎯 **Entraînement :** TryHackMe + SQLZoo (pratique quotidienne)
 
