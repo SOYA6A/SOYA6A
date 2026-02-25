@@ -98,10 +98,5 @@ Générateur de mots de passe sécurisés.
 - 🛠️ **Stack :** JavaScript
 
 
-## 📫 Me Contacter
-
-[![GitHub](https://img.shields.io/badge/GitHub-SOYA6A-181717?style=for-the-badge&logo=github)](https://github.com/SOYA6A)
-
----
 
 ⭐ **N'hésitez pas à explorer mes repositories et à me contacter si vous avez une opportunité d'alternance !**
