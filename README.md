@@ -2,7 +2,7 @@
 
 ## 🎯 À propos de moi
 
-Développeuse interessée par la **cybersécurité**, je suis actuellement a la **recherche active d'une alternance en cybersécurité** pour intégrer le cursus **Ironhack**.
+Développeuse intéressée par la **cybersécurité**, je suis actuellement a la **recherche active d'une alternance en cybersécurité** pour intégrer le cursus **Ironhack**.
 
 Diplômée d'une formation **Graduate Développeur** chez Studi, je me spécialise désormais dans la sécurité informatique avec un focus sur :
 - Le développement d'outils de sécurité
