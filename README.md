@@ -31,7 +31,7 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 | 4 | SELECT in SELECT | ✅ |
 | 5 | SUM and COUNT | ✅ |
 | 6 | JOIN (Jointures) | ✅ |
-| 7 | More JOIN operations | 🚧 En cours |
+| 7 | More JOIN operations |  ✅|
 
 ---
 
