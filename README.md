@@ -38,6 +38,7 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 ## 🛡️ Compétences en Cybersécurité
 
 **Formation active via [TryHackMe](https://tryhackme.com) :**
+
 Task 1 : think like a hacker
 - 🔍 Reconnaissance & OSINT
 - 🐛 Analyse de vulnérabilités web (XSS, SQL Injection, CSRF)
