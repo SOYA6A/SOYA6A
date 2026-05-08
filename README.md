@@ -7,7 +7,7 @@ Développeuse intéressée par la **cybersécurité**, je suis actuellement a la
 Diplômée d'une formation **Graduate Développeur** chez Studi, je me spécialise désormais dans la sécurité informatique avec un focus sur :
 - Le développement d'outils de sécurité
 - L'analyse de vulnérabilités web
-- La pratique sur **TryHackMe** et **SQLZoo** pour renforcer mes compétences
+- La pratique sur **Hack The Box** et **SQLZoo** pour renforcer mes compétences
 
 
 🔍 **Recherche :** Alternance en Cybersécurité (2026)  
