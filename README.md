@@ -39,6 +39,7 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 ## Formation Hack the box:
 - Meow 🐱
 - Fawn 🦌
+- Dancing 💃
 
 
 
