@@ -42,8 +42,8 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 - Dancing 💃
 - Redeemer 🎛️
 - Apointment 📅
-- Sequel 💾
-- Crocodile 🐊
+- Sequel 💾  - Crocodile 🐊
+
   
 
 
