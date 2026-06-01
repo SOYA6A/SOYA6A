@@ -41,7 +41,7 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
   - Outils : nmap, telnet
 - Appris : scan de ports, connexion Telnet, credentials par défaut (root sans mot de passe)
   ## Fawn 🦌
-  - Outils : nmap, ftp
+ - Outils : nmap, ftp
 - Appris : exploitation FTP anonyme, téléchargement de fichiers
   ## Dancing 💃
  -  Outils : nmap, smbclient
@@ -50,6 +50,8 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 - Outils : nmap, redis-cli
 - Appris : exploitation Redis non authentifié, dump de base de données
 ## Apointment 📅
+- Outils : nmap, navigateur
+- Appris : SQL Injection basique sur formulaire de login
 ##  Sequel 💾
  ##  Crocodile 🐊
  ## responder 🧑🏼‍🚒
