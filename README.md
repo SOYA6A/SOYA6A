@@ -53,9 +53,17 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 - Outils : nmap, navigateur
 - Appris : SQL Injection basique sur formulaire de login
 ##  Sequel 💾
+- Outils : nmap, mysql
+- Appris : connexion MySQL sans mot de passe, navigation en base de données
  ##  Crocodile 🐊
+ - Outils : nmap, ftp, gobuster
+- Appris : FTP anonyme + énumération web, combinaison de credentials
  ## responder 🧑🏼‍🚒
+-  Outils : nmap, Responder, john
+- Appris : capture de hash NTLM, cracking de mot de passe
 ## three 🎳
+- Outils : nmap, gobuster, curl, awscli
+- Appris : énumération vhosts, bucket S3 mal configuré, upload de webshell PHP, RCE
 
   
 
