@@ -37,10 +37,12 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 
 ## 🛡️ Compétences en Cybersécurité
 ## Formation Hack the box:
- Meow 🐱
+ ## Meow 🐱
   - Outils : nmap, telnet
 - Appris : scan de ports, connexion Telnet, credentials par défaut (root sans mot de passe)
-- Fawn 🦌
+  ## Fawn 🦌
+  - Outils : nmap, ftp
+- Appris : exploitation FTP anonyme, téléchargement de fichiers
 - Dancing 💃
 - Redeemer 🎛️
 - Apointment 📅
