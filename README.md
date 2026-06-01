@@ -43,13 +43,17 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
   ## Fawn 🦌
   - Outils : nmap, ftp
 - Appris : exploitation FTP anonyme, téléchargement de fichiers
-- Dancing 💃
-- Redeemer 🎛️
-- Apointment 📅
-- Sequel 💾
- - Crocodile 🐊
- - responder 🧑🏼‍🚒
- - three 🎳
+  ## Dancing 💃
+ -  Outils : nmap, smbclient
+- Appris : énumération SMB, accès aux partages sans authentification
+##  Redeemer 🎛️
+- Outils : nmap, redis-cli
+- Appris : exploitation Redis non authentifié, dump de base de données
+## Apointment 📅
+##  Sequel 💾
+ ##  Crocodile 🐊
+ ## responder 🧑🏼‍🚒
+## three 🎳
 
   
 
