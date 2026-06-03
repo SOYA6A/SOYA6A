@@ -66,7 +66,14 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 - Appris : énumération vhosts, bucket S3 mal configuré, upload de webshell PHP, RCE
 ## Vaccine 💉
 - Outils : nmap, ftp, zip2john, john, sqlmap, curl, ssh, vi
-- Appris : FTP anonyme, cracking zip/MD5, SQL injection PostgreSQL, webshell via S3, privilege escalation via sudo vi
+- Appris :
+  - Enumération FTP anonyme et téléchargement de fichiers
+  - Cracking de zip protégé avec zip2john + john
+  - Reverse de hash MD5 avec john et crackstation
+  - Exploitation SQL Injection PostgreSQL avec sqlmap (--os-shell)
+  - Découverte de credentials dans fichiers de config PHP
+  - Reverse shell via bash TCP
+  - Privilege escalation via sudo vi (GTFOBins)
   
 
 
