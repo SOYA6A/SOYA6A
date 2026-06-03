@@ -64,7 +64,9 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 ## three 🎳
 - Outils : nmap, gobuster, curl, awscli
 - Appris : énumération vhosts, bucket S3 mal configuré, upload de webshell PHP, RCE
-
+## Vaccine 💉
+- Outils : nmap, ftp, zip2john, john, sqlmap, curl, ssh, vi
+- Appris : FTP anonyme, cracking zip/MD5, SQL injection PostgreSQL, webshell via S3, privilege escalation via sudo vi
   
 
 
