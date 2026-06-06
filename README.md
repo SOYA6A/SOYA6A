@@ -79,7 +79,6 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 
 Outils : nmap, Burp Suite, curl, nc, python3
 - Appris :
-
 - Découverte de pages cachées via Burp Suite passive spidering
 - Information Disclosure via énumération d'ID dans l'URL
 - Broken Access Control via manipulation de cookies
