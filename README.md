@@ -78,14 +78,14 @@ Objectif : Maîtriser la manipulation de données, des requêtes de base aux joi
 ## Oopsie 🐛
 
 Outils : nmap, Burp Suite, curl, nc, python3
-Appris :
+- Appris :
 
-Découverte de pages cachées via Burp Suite passive spidering
-Information Disclosure via énumération d'ID dans l'URL
-Broken Access Control via manipulation de cookies
-Upload de reverse shell PHP
-Lateral movement via credentials en clair dans db.php
-Privilege escalation via PATH hijacking sur un binaire SUID
+- Découverte de pages cachées via Burp Suite passive spidering
+- Information Disclosure via énumération d'ID dans l'URL
+- Broken Access Control via manipulation de cookies
+- Upload de reverse shell PHP
+- Lateral movement via credentials en clair dans db.php
+- Privilege escalation via PATH hijacking sur un binaire SUID
 
 
 
