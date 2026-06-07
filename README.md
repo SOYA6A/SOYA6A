@@ -87,8 +87,17 @@ Outils : nmap, Burp Suite, curl, nc, python3
 - Privilege escalation via PATH hijacking sur un binaire SUID
 
 
-## 
+## Archetype 🏛️
 
+Outils : nmap, smbclient, mssqlclient.py, wmiexec.py
+Appris :
+
+Enumération SMB et accès anonyme à un partage
+Extraction de credentials dans un fichier .dtsConfig
+Connexion à MSSQL avec Impacket
+Activation de xp_cmdshell pour exécuter des commandes Windows
+Récupération de credentials dans ConsoleHost_history.txt (historique PowerShell)
+Connexion en tant qu'administrateur via wmiexec.py
 
 
 
